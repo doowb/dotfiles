@@ -1,0 +1,2 @@
+" Set the leader key to ,
+let mapleader = ","
